@@ -1,0 +1,22 @@
+porque elejiste esta  universidad?
+la eleji por su gran prestigio y su especializacion en el sector de programacion 
+tanto en diseño y desarrollo de software como en otros programas academicos 
+
+porque escogiste esta carrera?
+en caso de diseño y desarrollo de software:
+la escogi porque desde una edad temprana me atrajo la tecnologia,
+pero lo que mas me atrajo fue la programacion ya que tengo esa 
+curiosidad por meterme en ese mundo de los comandos, de ver
+como con esa cantidad de caracteres y numeros que le meten a la aplicacion, 
+sale algo tan simple como whattsapp o messenger, 
+
+en caso de administracion de redes y telecomunicaciones:
+la escogi por que me interesa bastante en como manejan la redes 
+a gran escala como son el caso de internet u optimizan toda
+esa gran informacion en algo tan ordenado graficamente 
+
+en caso de electronica y automatizacion industrial:
+me interesa o me atrae bastante la electronica como tambien la automatizacion
+en el caso de electronicas seria el hecho del manejo de voltajes y corrientes electronicas,
+y en automatizacion serian por como dice automatizar, crear progamas de control inalambricas 
+o el como crean programas autonomos especificos para cosas en especifico 
